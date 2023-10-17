@@ -46,4 +46,5 @@ API может принимать в качестве параметра пол�
 4 -  Заполненную бд в postman прилагаю 
 ![image](https://github.com/Fl1up/Ross_cosmos/assets/127086954/26c06e1a-802f-4d9e-b821-d34a6e1f92d2)
 ![image](https://github.com/Fl1up/Ross_cosmos/assets/127086954/b2dfc3b9-facc-405a-9d09-b27b4faa92e9)
+(Выполненны тесты, использован autopep8 и autoflake для соответствия PEP8.
 
